@@ -1,6 +1,6 @@
 # whatsapp
 
-A new Flutter project.
+clone ui of WhatsApp, with getX &amp; reusable widget
 
 ## Getting Started
 
